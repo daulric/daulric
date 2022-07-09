@@ -1,6 +1,6 @@
 # Ulric
 
-Welcome to my GitHub repository. Here you will mostly find projects that I have worked on for my YouTube channel tutorials, or livestreams. Most of my recent projects are private.
+Welcome to my Profile, where you will find amazing or useless projects i've worked on.
 
 [![Anson's GitHub stats](https://github-readme-stats.vercel.app/api?username=daulric&show_icons=true&layout=compact&theme=dark)](https://github.com/daulric)
 
