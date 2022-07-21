@@ -6,7 +6,7 @@ Welcome to my Profile, where you will find amazing or useless projects i've work
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuyy&layout=compact&theme=dark)](https://github.com/daulric)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=daulric&show_icons=true&layout=compact&theme=dark)](https://github.com/daulric)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=daulric&theme=dark)](https://github.com/daulric)
 
 # What I do
 - I go to school.
