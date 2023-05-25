@@ -2,7 +2,7 @@
 
 Welcome to my Profile, where you will find amazing or useless projects i've worked on.
 
-What Do I Do?
+What did i Make?
 - I made [ReTract](https://daulric.github.io/retract) - a declarative Lua UI Library for Roblox.
 - I made [OneFrame](https://daulric.github.io/OneFrame) - a module for running modular code under one server / client.
 
