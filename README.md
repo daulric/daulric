@@ -3,6 +3,8 @@
 Welcome to my Profile, where you will find unique or useless projects I've worked on.
 
 What did I Make?
+
+Note: Most of these projects are apart of the [Exon](https://github.com/daulric/exon) package
 - [React](https://github.com/daulric/devbox/tree/main/react) - a declarative Lua UI Library for Roblox.
 - [OneFrame](https://github.com/daulric/devbox/tree/main/oneframe) - a module for running modular code under one server/client.
 - [RedNet](https://github.com/daulric/devbox/tree/main/rednet) - a networking module creating a safe and secure passage for data on the server or client side.
