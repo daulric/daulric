@@ -1,5 +1,4 @@
 # Ulric
-
 Welcome to my Profile, where you will find unique or useless projects I've worked on.
 
 What did I Make?
