@@ -4,10 +4,11 @@ Welcome to my Profile, where you will find unique or useless projects I've worke
 What did I Make?
 
 __**Note:**__ Most of these projects are apart of the [Exon](https://github.com/daulric/exon) package
-- [React](https://github.com/daulric/devbox/tree/main/react) - a declarative Lua UI Library for Roblox.
-- [OneFrame](https://github.com/daulric/devbox/tree/main/oneframe) - a module for running modular code under one server/client.
-- [RedNet](https://github.com/daulric/devbox/tree/main/rednet) - a networking module creating a safe and secure passage for data on the server or client side.
-- [RoDB](https://github.com/daulric/devbox/tree/main/rodb) - a database service for safely storing data.
-- [Controllers](https://github.com/daulric/devbox/tree/main/controllers) - a networking module for creating and requesting modular code.
-
+- [React](https://github.com/daulric/exon/tree/main/react) - a declarative Lua UI Library for Roblox.
+- [OneFrame](https://github.com/daulric/exon/tree/main/oneframe) - a module for running modular code under one server/client.
+- [RedNet](https://github.com/daulric/exon/tree/main/rednet) - a networking module creating a safe and secure passage for data on the server or client side.
+- [RoDB](https://github.com/daulric/exon/tree/main/rodb) - a database service for safely storing data.
+- [Controllers](https://github.com/daulric/exon/tree/main/controllers) - a networking module for creating and requesting modular code.
+- [Addons](https://github.com/daulric/exon/tree/man/addons) - extra components thats does extra stuff for in your project and it also power parts of the exon framework components
+ 
 [![Ulric's GitHub stats](https://github-readme-stats.vercel.app/api?username=daulric&show_icons=true&layout=compact&theme=dark)](https://github.com/daulric)
