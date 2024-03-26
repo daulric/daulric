@@ -22,6 +22,9 @@ I made this game to test my ability to create a game with a little complexity fo
 ## [Untitled Fighting](https://github.com/daulric/Untitled-Fighting)
 A Sword Fighting game that is currently in development. It is a Zone Based fighting game where you enter the zone and fight others.
 
+## [QuizGame](https://github.com/daulric/QuizGameRoblox)
+A quiz game that utilizes an Api that gets random questions from a certain source.
+
 This game is also being made using the Exon Framework.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daulric&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
