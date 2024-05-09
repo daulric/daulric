@@ -12,20 +12,24 @@ __**Note:**__ Most of these projects are apart of the [Exon](https://github.com/
 - [RedNet](https://github.com/daulric/exon/tree/main/rednet) - a networking module creating a safe and secure passage for data on the server or client side.
 - [RoDB](https://github.com/daulric/exon/tree/main/rodb) - a database service for safely storing data.
 - [Controllers](https://github.com/daulric/exon/tree/main/controllers) - a networking module for creating and requesting modular code.
-- [Addons](https://github.com/daulric/exon/tree/man/addons) - extra components thats does extra stuff for in your project and it also power parts of the exon framework components
+- [Api](https://github.com/daulric/exon/tree/main/api) - APIs for connecting the exon framework to other products or applications.
+- [Addons](https://github.com/daulric/exon/tree/man/addons) - extra components that do extra stuff for your project and also power parts of the exon framework components
  
 ## [TicTacToe](https://github.com/daulric/tictactoe)
-A game I made using the Exon Framework. It is a client based game, meaning that 2 players can only play it on 1 computer.
+A game I made using the Exon Framework. It is a client-based game, meaning only 2 players can play it on 1 computer.
 
 I made this game to test my ability to create a game with a little complexity for a school assignment.
 
 ## [Untitled Fighting](https://github.com/daulric/Untitled-Fighting)
-A Sword Fighting game that is currently in development. It is a Zone Based fighting game where you enter the zone and fight others.
+It is a sword-fighting game that is currently in development. It is a zone-based fighting game where you enter the zone and fight others.
 
 ## [QuizGame](https://github.com/daulric/QuizGameRoblox)
-A quiz game that utilizes an Api that gets random questions from a certain source.
+A quiz game that utilizes an API that gets random questions from a certain source.
 
 This game is also being made using the Exon Framework.
+
+## [Database Service Api](https://github.com/daulric/DatabaseServiceApi)
+A Web API that interacts with your Firebase Realtime Database. 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daulric&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br />
