@@ -3,7 +3,7 @@ My Name is Ulric. I also go by daulric on games and social media. Welcome to my 
 
 What did I Make?
 
-## **[Exon](https://github.com/daulric/exon)**
+# **__[Exon](https://github.com/daulric/exon)__**
 A Game Framework for creating games simpler and easier
 
 __**Note:**__ Most of these projects are apart of the [Exon](https://github.com/daulric/exon) package
@@ -27,6 +27,17 @@ It is a sword-fighting game that is currently in development. It is a zone-based
 A quiz game that utilizes an API that gets random questions from a certain source.
 
 This game is also being made using the Exon Framework.
+
+# **__Apps__**
+I have created a series of apps as a side and/or school projects
+
+## **[zTube](https://github.com/daulric/ztube)**
+zTube is a project, my partner and I are actively working on for our final project. Created with React, zTube is almost a basic version of the popular platform YouTube.
+
+Since this is a web app and can only be viewed on a web browser, I made it work as a standalone app that can be opened directly from your phone, via Chromium Progressive Web App (PWA).
+
+## **[ua store](https://github.com/daulric/College/tree/Year-2-Semester-1/Web%20Design/Final%20Website%20Assignment)**
+ua store is a final project made for a Web Design Course. Utilizing React, NextJS, and Prisma ORM, I was able to recreate a basic eCommerce Supermarket.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daulric&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br />
