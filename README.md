@@ -1,4 +1,9 @@
-# Ulric 
+<p align="center">
+  <img src="./logo.svg" alt="logo" />
+</p>
+
+
+# Ulric
 My Name is Ulric. I also go by daulric on games and social media. Welcome to my Profile, where you will find unique or useless projects I've worked on.
 
 What did I Make?

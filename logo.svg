@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="33.561096mm"
+   height="33.606171mm"
+   viewBox="0 0 33.561096 33.606171"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     style="display:inline"
+     transform="translate(-50.298256,-173.02534)">
+    <rect
+       style="fill:#560000;fill-opacity:1;stroke-width:0.0531126"
+       id="rect3-9"
+       width="30"
+       height="30"
+       x="53.859352"
+       y="173.02534"
+       ry="0.63185161" />
+    <rect
+       style="fill:#670000;fill-opacity:1;stroke-width:0.0531126"
+       id="rect3"
+       width="30"
+       height="30"
+       x="52.277382"
+       y="174.78629"
+       ry="0.63185161" />
+    <rect
+       style="fill:#800000;stroke-width:0.0531126"
+       id="rect1"
+       width="30"
+       height="30"
+       x="50.298256"
+       y="176.6315"
+       ry="0.63185161" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.9123px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:1.57602"
+       x="59.974186"
+       y="204.59717"
+       id="text2"><tspan
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:System-ui;-inkscape-font-specification:System-ui;stroke-width:1.57602"
+         x="59.974186"
+         y="204.59717">ua</tspan></text>
+  </g>
+</svg>
