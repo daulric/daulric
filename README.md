@@ -36,8 +36,8 @@ This game is also being made using the Exon Framework.
 # **__Apps__**
 I have created a series of apps as a side and/or school projects
 
-## **[zTube](https://github.com/daulric/ztube)**
-zTube is a project, my partner and I are actively working on for our final project. Created with React, zTube is almost a basic version of the popular platform YouTube.
+## **[fuze](https://github.com/daulric/fuze)**
+fuze is a project, my partner and I are actively working on for our final project. Created with React, fuze is almost a basic version of the popular platform YouTube, Twitter and  a little bit of Instagram.
 
 Since this is a web app and can only be viewed on a web browser, I made it work as a standalone app that can be opened directly from your phone, via Chromium Progressive Web App (PWA).
 
