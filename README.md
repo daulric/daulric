@@ -12,16 +12,17 @@ What did I Make?
 A Game Framework for creating games simpler and easier
 
 __**Note:**__ Most of these projects are apart of the [Exon](https://github.com/daulric/exon) package
-- [React](https://github.com/daulric/exon/tree/main/react) - a declarative Lua UI Library for Roblox.
-- [OneFrame](https://github.com/daulric/exon/tree/main/oneframe) - a module for running modular code under one server/client.
-- [RedNet](https://github.com/daulric/exon/tree/main/rednet) - a networking module creating a safe and secure passage for data on the server or client side.
-- [RoDB](https://github.com/daulric/exon/tree/main/rodb) - a database service for safely storing data.
-- [Controllers](https://github.com/daulric/exon/tree/main/controllers) - a networking module for creating and requesting modular code.
-- [Api](https://github.com/daulric/exon/tree/main/api) - APIs for connecting the exon framework to other products or applications.
-- [Addons](https://github.com/daulric/exon/tree/man/addons) - extra components that do extra stuff for your project and also power parts of the exon framework components
+
+- [React](https://github.com/daulric/exon/tree/main/react): a declarative Lua UI Library for Roblox.
+- [OneFrame](https://github.com/daulric/exon/tree/main/oneframe): a module for running modular code under one server/client.
+- [RedNet](https://github.com/daulric/exon/tree/main/rednet): a networking module creating a safe and secure passage for data on the server or client side.
+- [RoDB](https://github.com/daulric/exon/tree/main/rodb): a database service for safely storing data.
+- [Controllers](https://github.com/daulric/exon/tree/main/controllers): a networking module for creating and requesting modular code.
+- [Api](https://github.com/daulric/exon/tree/main/api): APIs for connecting the exon framework to other products or applications.
+- [Addons](https://github.com/daulric/exon/tree/man/addons): extra components that do extra stuff for your project and also power parts of the exon framework components
  
 ## [TicTacToe](https://github.com/daulric/tictactoe)
-A game I made using the Exon Framework. It is a client-based game, meaning only 2 players can play it on 1 computer.
+I made a game using the Exon Framework. It is client-based, meaning only two players can play it on one computer.
 
 I made this game to test my ability to create a game with a little complexity for a school assignment.
 
@@ -37,7 +38,7 @@ This game is also being made using the Exon Framework.
 I have created a series of apps as a side and/or school projects
 
 ## **[fuze](https://github.com/daulric/fuze)**
-fuze is a project, my partner and I are actively working on for our final project. Created with React, fuze is almost a basic version of the popular platform YouTube, Twitter and  a little bit of Instagram.
+fuze is a project, my partner and I are actively working on for our final project. Created with React, fuze is almost a basic version of the popular platforms YouTube, Twitter, and  a little bit of Instagram.
 
 Since this is a web app and can only be viewed on a web browser, I made it work as a standalone app that can be opened directly from your phone, via Chromium Progressive Web App (PWA).
 
