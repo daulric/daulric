@@ -21,17 +21,6 @@ __**Note:**__ Most of these projects are apart of the [Exon](https://github.com/
 - [Api](https://github.com/daulric/exon/tree/main/api): APIs for connecting the exon framework to other products or applications.
 - [Addons](https://github.com/daulric/exon/tree/man/addons): extra components that do extra stuff for your project and also power parts of the exon framework components
  
-## [TicTacToe](https://github.com/daulric/tictactoe)
-I made a game using the Exon Framework. It is client-based, meaning only two players can play it on one computer.
-
-I made this game to test my ability to create a game with a little complexity for a school assignment.
-
-## [Untitled Fighting](https://github.com/daulric/Untitled-Fighting)
-It is a sword-fighting game that is currently in development. It is a zone-based fighting game where you enter the zone and fight others.
-
-## [QuizGame](https://github.com/daulric/QuizGameRoblox)
-A quiz game that utilizes an API that gets random questions from a certain source.
-
 This game is also being made using the Exon Framework.
 
 # **__Apps__**
