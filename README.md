@@ -17,7 +17,7 @@ I’m currently studying **Information Technology** at **T.A. Marryshow Communit
 
 I’m especially interested in:
 
-* Full-stack web development using **Next.js**, **Supabase**, and **Firebase**
+* Full-stack web development using **Next.js**, **Supabase**, and many more technologies
 * Building interactive and user-friendly web apps
 * Experimenting with **AI integrations** and **real-time communication**
 * Exploring new technologies that make development more efficient and expressive
@@ -53,7 +53,7 @@ Features:
 * Scoring and level progression
 * Pixel-art styled characters and UI
 
-This project honed my understanding of **object-oriented programming**, **game loops**, and **GUI development**.
+This project sharpened my understanding of **object-oriented programming**, **game loops**, and **GUI development**.
 
 ---
 
@@ -77,10 +77,10 @@ Features:
 TypeScript • JavaScript • Java • Lua • Rust
 
 **Frameworks & Tools:**
-Next.js • React • Tailwind CSS • Supabase • Firebase • Node.js
+Next.js • React • Tailwind CSS • Supabase • Node.js
 
 **Focus Areas:**
-Full-Stack Web Apps • AI Integrations • Game Development • Real-Time Systems
+Full-Stack Web Apps • AI Integrations • Real-Time Systems
 
 ---
 
