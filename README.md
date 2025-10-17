@@ -3,35 +3,101 @@
 </p>
 
 
-# Ulric
-My Name is Ulric. I also go by daulric on games and social media. Welcome to my Profile, where you will find unique or useless projects I've worked on.
+# Hi, I'm Ulric
 
-What did I make?
+Welcome to my GitHub!
+I’m a developer who loves **building, experimenting, and learning by doing** — whether it’s a full-stack web app, an AI experiment, or a random side project that helps me understand technology better.
 
-# **__[Exon](https://github.com/daulric/exon)__**
-A Game Framework for creating games simply and easily
+---
 
-__**Note:**__ Most of these projects are apart of the [Exon](https://github.com/daulric/exon) package
+## About Me
 
-- [React](https://github.com/daulric/exon/tree/main/react): a declarative Lua UI Library for Roblox.
-- [OneFrame](https://github.com/daulric/exon/tree/main/oneframe): a module for running modular code under one server/client.
-- [RedNet](https://github.com/daulric/exon/tree/main/rednet): a networking module creating a safe and secure passage for data on the server or client side.
-- [RoDB](https://github.com/daulric/exon/tree/main/rodb): a database service for safely storing data.
-- [Controllers](https://github.com/daulric/exon/tree/main/controllers): a networking module for creating and requesting modular code.
-- [Api](https://github.com/daulric/exon/tree/main/api): APIs for connecting the exon framework to other products or applications.
-- [Addons](https://github.com/daulric/exon/tree/man/addons): extra components that do extra stuff for your project and also power parts of the exon framework components
- 
-This game is also being made using the Exon Framework.
+I’m **Ulric Aird**, a passionate developer and tech enthusiast who enjoys bringing ideas to life through code.
+I’m currently studying **Information Technology** at **T.A. Marryshow Community College**, where I’ve developed several hands-on projects that blend creativity and technical problem-solving.
 
-# **__Apps__**
-I have created a series of apps as a side and/or school projects
+I’m especially interested in:
 
-## **[fuze](https://github.com/daulric/fuze)**
-fuze is a project that my partner and I are actively working on for our final project. Created with React, fuze is almost a basic version of the popular platforms YouTube, Twitter, and  a little bit of Instagram.
+* Full-stack web development using **Next.js**, **Supabase**, and **Firebase**
+* Building interactive and user-friendly web apps
+* Experimenting with **AI integrations** and **real-time communication**
+* Exploring new technologies that make development more efficient and expressive
 
-Since this is a web app that can only be viewed in a web browser, I made it work as a standalone app that can be opened directly from your phone via the Chromium Progressive Web App (PWA).
+My approach is simple — **build something every day**. Whether it succeeds or fails, I always learn something new.
 
-Its Successor is s2, a similar version which can be viewed here [Main Version](https://s2.daulric.dev). If you found any problem with this site, you can access the [Alternative](https://s2v.daulric.dev) way
+---
+
+## Featured Projects
+
+### **s2 — Content-Driven Social Media Platform (Capstone Project)**
+
+A modern, feature-rich platform inspired by social media systems.
+Built with **Next.js 14**, **Supabase**, and **Tailwind CSS**, it focuses on:
+
+* Real-time interactions (likes, comments, and chat)
+* Secure authentication using Supabase
+* Clean dark-mode-only design
+* A focus on user-generated content and engagement
+
+*Goal:* To showcase how community-driven platforms can be both efficient and visually appealing.
+
+https://s2.daulric.dev
+
+---
+
+### **Pacman Game (Java Swing)**
+
+A recreation of the classic arcade game built entirely in **Java** using **Swing**.
+Features:
+
+* Custom collision detection and movement system
+* Scoring and level progression
+* Pixel-art styled characters and UI
+
+This project honed my understanding of **object-oriented programming**, **game loops**, and **GUI development**.
+
+---
+
+### **AI Chat App**
+
+A conversational AI web app built with **Next.js**, **Tailwind**, and **Google Generative AI**.
+Features:
+
+* Real-time chat UI
+* Persistent chat history with **Supabase**
+* Image and text generation
+* Clean, responsive interface
+
+*Purpose:* To explore AI-assisted communication and integrate generative models into modern web experiences.
+
+---
+
+## Tech Stack
+
+**Languages:**
+TypeScript • JavaScript • Java • Lua • Rust
+
+**Frameworks & Tools:**
+Next.js • React • Tailwind CSS • Supabase • Firebase • Node.js
+
+**Focus Areas:**
+Full-Stack Web Apps • AI Integrations • Game Development • Real-Time Systems
+
+---
+
+## Philosophy
+
+> “Build. Learn. Repeat.”
+
+I believe in **iteration over perfection** — every version is progress.
+I enjoy experimenting, sharing, and constantly improving my craft.
+
+---
+
+## Connect with Me
+
+* GitHub: [@daulric](https://github.com/daulric)
+* Instagram: [@ulricaird](https://instagram.com/ulricaird)
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daulric&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br />
