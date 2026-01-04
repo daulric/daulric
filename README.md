@@ -13,7 +13,6 @@ I’m a developer who loves **building, experimenting, and learning by doing** �
 ## About Me
 
 I’m **Ulric Aird**, a passionate developer and tech enthusiast who enjoys bringing ideas to life through code.
-I’m currently studying **Information Technology** at **T.A. Marryshow Community College**, where I’ve developed several hands-on projects that blend creativity and technical problem-solving.
 
 I’m especially interested in:
 
@@ -22,13 +21,13 @@ I’m especially interested in:
 * Experimenting with **AI integrations** and **real-time communication**
 * Exploring new technologies that make development more efficient and expressive
 
-My approach is simple — **build something every day**. Whether it succeeds or fails, I always learn something new.
+My approach is simple - **build something every day**. Whether it succeeds or fails, I always learn something new.
 
 ---
 
 ## Featured Projects
 
-### **s2 — Content-Driven Social Media Platform (Capstone Project)**
+### **s2 - Content-Driven Social Media Platform (Capstone Project)**
 
 A modern, feature-rich platform inspired by social media systems.
 Built with **Next.js 14**, **Supabase**, and **Tailwind CSS**, it focuses on:
